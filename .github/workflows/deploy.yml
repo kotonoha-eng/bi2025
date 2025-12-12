@@ -25,6 +25,7 @@ jobs:
         with:
           node-version: "22"
           cache: "npm"
+          cache-dependency-path: ./bi-dashboard/package-lock.json
 
       - name: Install deps
         run: npm ci
@@ -36,4 +37,4 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./out
+          publish_dir: ./bi-dashboard/out
