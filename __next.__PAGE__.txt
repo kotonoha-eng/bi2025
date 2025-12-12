@@ -2,5 +2,5 @@
 2:I[63709,["/bi2025/_next/static/chunks/3295a398c5d69311.js"],"LineChart"]
 3:I[97367,["/bi2025/_next/static/chunks/dfe24cce04d6304a.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"F2AYPZ7YcBWx8UqNGqt6G","rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"padding":"1.5rem"},"children":[["$","h1",null,{"children":"BI Dashboard"}],["$","p",null,{"children":"ローカル JSON を元にしたサンプルです。"}],["$","$L2",null,{"points":[{"id":"2025-01","value":120},{"id":"2025-02","value":150},{"id":"2025-03","value":90}]}]]}],[["$","script","script-0",{"src":"/bi2025/_next/static/chunks/3295a398c5d69311.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"SSZzCpeXxqDponCVFTJaP","rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"padding":"1.5rem"},"children":[["$","h1",null,{"children":"BI Dashboard"}],["$","p",null,{"children":"ローカル JSON を元にしたサンプルです。"}],["$","$L2",null,{"points":[{"id":"2025-01","value":120},{"id":"2025-02","value":150},{"id":"2025-03","value":90}]}]]}],[["$","script","script-0",{"src":"/bi2025/_next/static/chunks/3295a398c5d69311.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
